@@ -30,7 +30,7 @@ export default function App() {
           <div key={index} className="center-element">
             <h2>{index === 0 ? "Past" : index === 1 ? "Present" : "Future"}</h2>
             <img
-              src={`/card-images/${card.image}`}
+              src={`TarotReader/card-images/${card.image}`}
               alt={card.name}
               style={{ width: "100%", height: "auto", borderRadius: "10px" }}
             />
