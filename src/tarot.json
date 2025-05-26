@@ -2,19 +2,19 @@
   {
     "name": "The Fool",
     "description": "New beginnings, optimism, trust in life",
-    "image": "/card-images/00-TheFool.png",
+    "image": "00-TheFool.png",
     "love": "The start of a new romance, but it may be set on superficial, shallow means. A young, exciting love."
   },
   {
     "name": "The Magician",
     "description": "Action, the power to manifest",
-    "image": "/card-images/01-TheMagician.png",
+    "image": "01-TheMagician.png",
     "love": "All the tools are there to make the relationship work. You and your partner will use all you have at your disposal. Pay attention to other cards for the outcome."
   },
   {
     "name": "The High Priestess",
     "description": "Inaction, going within, the subconscious",
-    "image": "/card-images/02-TheHighPriestess.png",
+    "image": "02-TheHighPriestess.png",
     "love": "Listen to your gut feeling about this relationship. If it feels right, you will feel spirtually fulfilled. If it seems wrong, don't ignore it."
   }
 ]
