@@ -16,5 +16,100 @@
     "description": "Inaction, going within, the subconscious",
     "image": "02-TheHighPriestess.png",
     "love": "Listen to your gut feeling about this relationship. If it feels right, you will feel spirtually fulfilled. If it seems wrong, don't ignore it."
+  },
+    {
+    "name": "The Empress",
+    "image": "03-TheEmpress.png",
+    "love": "A commited relationship is indicated. Maybe raising a child together, or could raise one together. A loving, nuturing relationship."
+  },
+  {
+    "name": "The Emperor",
+    "image": "04-TheEmperor.png",
+    "love": "Your partner seems to have masculine energy. They are an older or more mature person. They are authoritative. Found your Yang to your Yin?"
+  },
+  {
+    "name": "The Hierophant",
+    "image": "05-TheHierophant.png",
+    "love": "You and your partner shared the same morals and values. You two meet eye to eye on spirtual matters, in the organized sense."
+  },
+  {
+    "name": "The Lovers",
+    "image": "06-TheLovers.png",
+    "love": "You have found your soulmate, your other half. Somethimes we stay with our soulmate, other times we don't. Romance and a deep connection is here."
+  },
+  {
+    "name": "The Chariot",
+    "image": "07-TheChariot.png",
+    "love": "Use your willpower to power thorough this relationship. Have trust, love and work can prevail in the end."
+  },
+  {
+    "name": "Strength",
+    "image": "08-Strength.png",
+    "love": ""
+  },
+  {
+    "name": "The Hermit",
+    "image": "09-TheHermit.png",
+    "love": ""
+  },
+  {
+    "name": "Wheel of Fortune",
+    "image": "10-WheelOfFortune.png",
+    "love": ""
+  },
+  {
+    "name": "Justice",
+    "image": "11-Justice.png",
+    "love": ""
+  },
+  {
+    "name": "The Hanged Man",
+    "image": "12-TheHangedMan.png",
+    "love": ""
+  },
+  {
+    "name": "Death",
+    "image": "13-Death.png",
+    "love": ""
+  },
+  {
+    "name": "Temperance",
+    "image": "14-Temperance.png",
+    "love": ""
+  },
+  {
+    "name": "The Devil",
+    "image": "15-TheDevil.png",
+    "love": ""
+  },
+  {
+    "name": "The Tower",
+    "image": "16-TheTower.png",
+    "love": ""
+  },
+  {
+    "name": "The Star",
+    "image": "17-TheStar.png",
+    "love": ""
+  },
+  {
+    "name": "The Moon",
+    "image": "18-TheMoon.png",
+    "love": ""
+  },
+  {
+    "name": "The Sun",
+    "image": "19-TheSun.png",
+    "love": ""
+  },
+  {
+    "name": "Judgement",
+    "image": "20-Judgement.png",
+    "love": ""
+  },
+  {
+    "name": "The World",
+    "image": "21-TheWorld.png",
+    "love": ""
   }
 ]
