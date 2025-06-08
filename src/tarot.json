@@ -30,86 +30,86 @@
   {
     "name": "The Hierophant",
     "image": "05-TheHierophant.png",
-    "love": "You and your partner shared the same morals and values. You two meet eye to eye on spirtual matters, in the organized sense."
+    "love": "If not in a commited relationship yet, you will be in one. You and your partner shared the same morals and values. You two meet eye to eye on spirtual matters."
   },
   {
     "name": "The Lovers",
     "image": "06-TheLovers.png",
-    "love": "You have found your soulmate, your other half. Somethimes we stay with our soulmate, other times we don't. Romance and a deep connection is here."
+    "love": "You have found your soulmate, your other half. Romance and a deep connection is here."
   },
   {
     "name": "The Chariot",
     "image": "07-TheChariot.png",
-    "love": "Use your willpower to power thorough this relationship. Have trust, love and work can prevail in the end."
+    "love": "Use your willpower to power thorough this relationship. Have trust, love can prevail in the end."
   },
   {
     "name": "Strength",
     "image": "08-Strength.png",
-    "love": ""
+    "love": "If single, now is a good time to go out and meet someone new! If in a relationship, you have become stronger together. A good emotional bond."
   },
   {
     "name": "The Hermit",
     "image": "09-TheHermit.png",
-    "love": ""
+    "love": "May need to find yourself, and self-reflect first before jumping or continuing with the relationship."
   },
   {
     "name": "Wheel of Fortune",
     "image": "10-WheelOfFortune.png",
-    "love": ""
+    "love": "If single, it's time to put yourself out there and meet new people! If with a partner, you got lucky!"
   },
   {
     "name": "Justice",
     "image": "11-Justice.png",
-    "love": ""
+    "love": "The truth, will come out in this relationship. No secrets, all will be revealed."
   },
   {
     "name": "The Hanged Man",
     "image": "12-TheHangedMan.png",
-    "love": ""
+    "love": "If you are unhappy, it is time to walk away from the relationship. Holding to feelings of an ex, it is time to release them."
   },
   {
     "name": "Death",
     "image": "13-Death.png",
-    "love": ""
+    "love": "The next phase of the relationship is to come. A proposal, a change in the progression of the relationship. If single, the start of a new relationship."
   },
   {
     "name": "Temperance",
     "image": "14-Temperance.png",
-    "love": ""
+    "love": "A nice quiet romance is here. Mutual understanding and soulmate level love."
   },
   {
     "name": "The Devil",
     "image": "15-TheDevil.png",
-    "love": ""
+    "love": "A superfiical relationship with not much depth. With each other or liking someone for the wrong reasons."
   },
   {
     "name": "The Tower",
     "image": "16-TheTower.png",
-    "love": ""
+    "love": "The ending of a relationship. A bad breakup that you are trying to handle."
   },
   {
     "name": "The Star",
     "image": "17-TheStar.png",
-    "love": ""
+    "love": "Make a wish, and the right person for you will come. Make a wish in the relationship right now and it will be your command."
   },
   {
     "name": "The Moon",
     "image": "18-TheMoon.png",
-    "love": ""
+    "love": "Emotionally the person that you are focusing on can cause a lot of strees and insecurity."
   },
   {
     "name": "The Sun",
     "image": "19-TheSun.png",
-    "love": ""
+    "love": "A happy relationship is in the works. Much love and warmth."
   },
   {
     "name": "Judgement",
     "image": "20-Judgement.png",
-    "love": ""
+    "love": "Time to reassess the relationship and weigh the pros and cons. If single, figure out what it is you like and dislike, really think on it, and choose accordingly."
   },
   {
     "name": "The World",
     "image": "21-TheWorld.png",
-    "love": ""
+    "love": "Good things will happen for you romantically. If single, the world wants to give you love! Just go out there!"
   }
 ]
